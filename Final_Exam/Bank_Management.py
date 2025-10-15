@@ -203,7 +203,7 @@ bank = Bank()
 admin = Admin(bank)
 Run=True
 while Run:
-    print("\nWelcome to Bank Management System")
+    print("\n Welcome to Bank Management System")
     print("1. User")
     print("2. Admin")
     print("3. Exit")
@@ -227,3 +227,4 @@ while Run:
         break
     else:
         print("Invalid choice.")
+
